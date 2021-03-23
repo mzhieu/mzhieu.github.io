@@ -1,0 +1,13 @@
+Package: com.mzhieu.dungg_1.1
+Version: 1.1
+Section: Themes
+Maintainer: mzhieu
+Depends: firmware (>12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.mzhieu.dungg_1.1.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: theme cho bé dũng
+Name: mzhieu
+Author: mzhieu
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
