@@ -1,0 +1,9 @@
+Package: com.mzhieu.dungg
+Name: dungg
+Version: 1.0
+Architecture: iphoneos-arm
+Description: theme cho bé dũng
+Author: mzhieu
+Maintainer: mzhieu
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
