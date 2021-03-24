@@ -1,8 +1,8 @@
 Origin: mzhieu's House of Tweaks
 Label: mzhieu's repo
 Suite: stable
-Version: mz.1.2
+Version: mz.1.3
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: house of tweaks
+Description: house of tweaks and themes
