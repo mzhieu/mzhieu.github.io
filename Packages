@@ -1,10 +1,10 @@
 Package: com.mzhieu.dungg
+Filename: ./debs/com.mzhieu.dungg_1.7_iphoneos-arm.deb
 Name: dungg
-Version: 1.6
+Version: 1.7
 Architecture: iphoneos-arm
 Description: theme cho bé dũng
 Author: mzhieu
 Maintainer: mzhieu
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/dungg.deb
