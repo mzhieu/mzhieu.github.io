@@ -1,8 +1,8 @@
-Origin: mzhieu's House of Tweaks
-Label: mzhieu's repo
+Origin: mzhieu's House of tweaks
+Label: mzhieu's House of tweaks
 Suite: stable
-Version: mz.1.4
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: house of tweaks and themes
+Description: A place for funny stuff
