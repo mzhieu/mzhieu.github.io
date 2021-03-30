@@ -1,0 +1,8 @@
+
+
+------------ Update a theme --------------
+1. Update "Version" in .deb
+2. Replace .deb in deb folder
+3. Update "Packages": Version, Size, MD5sum, SHA1, SHA256
+4. .bzip2 and .gz Packages
+5. Push repo on github
