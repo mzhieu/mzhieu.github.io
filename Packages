@@ -1,0 +1,15 @@
+Package: com.mzhieu.dungg
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: mzhieu <mhhieu344@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mzhieu.dungg.deb
+Size: 5795
+MD5sum: 1bfe40f85fd6332e4e6e99bdfc5b3f7a
+SHA1: 8de33bc2b68b9be59083c6b9696fa1a96e362347
+SHA256: 8b79905b5aff7cda3db8cfe27a29e61230354896003affdd5f20aaa6433f7300
+Section: Tweaks
+Description: theme cho baby dung
+Author: mzhieu <mhhieu344@gmail.com>
+Name: dungg
+
