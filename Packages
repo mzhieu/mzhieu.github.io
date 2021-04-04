@@ -28,3 +28,18 @@ Description: gives out a popup when syncing to your computer [currently broken, 
 Author: mzhieu <mhhieu344@gmail.com>
 Name: syncmsg
 
+Package: com.mzhieu.dopecc
+Version: 1.1b~preftesting
+Architecture: iphoneos-arm
+Maintainer: mzhieu <mhhieu344@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mzhieu.dopecc.deb
+Size: 3474
+MD5sum: ab95c330d82467e1aba0217617b128a1
+SHA1: 60f4e88f6cea93e0fc2ecf5a74a08b7ab09fa5d5
+SHA256: 35cf41ac969603edfc0a23fff947ece57f39e7c684edf50147c76e8abf69df7c
+Section: tweaks
+Description: A customizable dope control centre [original tweak by litten] [currently testing preferences]
+Author: mzhieu <mhhieu344@gmail.com>
+Name: DopeCC
+
