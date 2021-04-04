@@ -34,7 +34,7 @@ Architecture: iphoneos-arm
 Maintainer: mzhieu <mhhieu344@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.mzhieu.dopecc.deb
-Size: 3474
+Size: 3482
 MD5sum: 48cb7ec1dec1598090b0f786c2bd1532
 SHA1: b5c24adc0bd6187dd9c2dbafbb762069b4a43718
 SHA256: bbf4b1cbd430382b3ca954190a3d7017a0c4db96a5e98aeabf2c9d3f1ac069c1
