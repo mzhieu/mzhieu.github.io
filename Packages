@@ -29,15 +29,15 @@ Author: mzhieu <mhhieu344@gmail.com>
 Name: syncmsg
 
 Package: com.mzhieu.dopecc
-Version: 1.1b~preftesting
+Version: 1.2b~preftesting
 Architecture: iphoneos-arm
 Maintainer: mzhieu <mhhieu344@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.mzhieu.dopecc.deb
 Size: 3474
-MD5sum: ab95c330d82467e1aba0217617b128a1
-SHA1: 60f4e88f6cea93e0fc2ecf5a74a08b7ab09fa5d5
-SHA256: 35cf41ac969603edfc0a23fff947ece57f39e7c684edf50147c76e8abf69df7c
+MD5sum: 48cb7ec1dec1598090b0f786c2bd1532
+SHA1: b5c24adc0bd6187dd9c2dbafbb762069b4a43718
+SHA256: bbf4b1cbd430382b3ca954190a3d7017a0c4db96a5e98aeabf2c9d3f1ac069c1
 Section: tweaks
 Description: A customizable dope control centre [original tweak by litten] [currently testing preferences]
 Author: mzhieu <mhhieu344@gmail.com>
