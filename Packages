@@ -13,3 +13,18 @@ Description: theme cho baby dung
 Author: mzhieu <mhhieu344@gmail.com>
 Name: dungg
 
+Package: com.mzhieu.syncmsg
+Version: 1.2b
+Architecture: iphoneos-arm
+Maintainer: mzhieu <mhhieu344@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mzhieu.syncmsg.deb
+Size: 3264
+MD5sum: 3964ed6df86a334a9810f48e94ab43d1
+SHA1: bd79c573f1fc2d1329e2c3bdbf75b9e72eab3f4c
+SHA256: 9e500ceceaa35a4d1716cab01f6f1f95a5960bbfcab060768fd0bf12a0715263
+Section: tweaks
+Description: gives out a popup when syncing to your computer [currently broken, sad]
+Author: mzhieu <mhhieu344@gmail.com>
+Name: syncmsg
+
